@@ -1,0 +1,2 @@
+Aula de laboratório: escrever e testar um código de listas encadeadas de números. Fazer funções de inserir, remover e pesquisar. Fazer um programa para testar.
+Depois, aproveitar o mesmo código e altara para uma lista de encadeada de pessoas, onde guardo o nome e a altura de cada pessoa. Fazer os mesmos tipos de testes feitos na de inteiros.
